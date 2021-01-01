@@ -35,8 +35,8 @@
 		fn_layer {
 			bindings = <
 	&reset &none &bt BT_SEL 0 &bt BT_NXT &bt BT_CLR &none
-	&none &none &none &kp C_VOLUME_UP  &none &none
-	&none &none  &kp C_VOLUME_DOWN  &none &none
+	&none &none &none &none  &none &none
+	&none &none  &none  &none &none
 	&none &none &none &none &none &none
 	&none &none &none
 			>;
